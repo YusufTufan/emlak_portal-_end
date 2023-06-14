@@ -1,0 +1,46 @@
+<div class="container">
+  <h2>Üyeler</h2>
+  <button mat-fab matTooltip="üye Ekle" color="primary" style="background-color: #EC637B;" (click)="Ekle()">
+    <mat-icon aria-label="label" style="background-color: #EC637B;">add</mat-icon>
+  </button>
+  <p>&nbsp;</p>
+
+  <mat-table [dataSource]="dataSource" matSort class="mat-elevation-z8" style="background-color: #EC637B;">
+    <ng-container matColumnDef="KullaniciAdi" >
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Kullanıcı Adı
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.KullaniciAdi}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="UyeAdmin" matSort>
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Üye&Admin
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit"> {{kayit.UyeAdmin}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="detay">
+      <mat-header-cell *matHeaderCellDef> Islemler
+      </mat-header-cell>
+      <mat-cell *matCellDef="let kayit">
+
+        <button mat-icon-button color="primary" matTooltip="Kullanıcı Adı Listele">
+          <mat-icon aria-label="label">list</mat-icon>
+        </button>
+
+        <button mat-icon-button color="primary" matTooltip="Üye Düzenle" (click)="Duzenle(kayit)">
+          <mat-icon aria-label="label">edit</mat-icon>
+        </button>
+        
+        <button mat-icon-button color="warn" matTooltip="Üye Sil" (click)="Sil(kayit)">
+          <mat-icon aria-label="label">delete</mat-icon>
+        </button>
+
+      </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+  </mat-table>
+  <mat-paginator   [pageSizeOptions]="[10, 25, 100]" showFirstLastButtons>
+  </mat-paginator>
+
+</div>

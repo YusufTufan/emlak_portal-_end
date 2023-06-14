@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>Oturum Aç</h2>
+  <mat-form-field appearance="outline" style="width: 50%;">
+    <mat-label>Kullanıcı Adı</mat-label>
+    <input matInput placeholder="Kullanıcı Adı" type="text" #kadi>
+  </mat-form-field>
+  
+  <mat-form-field appearance="outline" style="width: 50%">
+    <mat-label>Parola</mat-label>
+    <input matInput placeholder="Parola" type="password" #parola>
+  </mat-form-field>
+  <button mat-raised-button color="primary" (click)="OturumAc(kadi.value,parola.value)" style="background-color:#EC637B;">Oturum Aç</button>
+</div>

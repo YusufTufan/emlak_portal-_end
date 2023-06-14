@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background-color:rgb(55, 197, 185);
+}
+.container {
+  margin: 20px 10px 10px 20px;
+ 
+}
+
+.mat-form-field {
+  width: 100%;
+}
+.right-controls {
+  margin-left: auto;
+}
+.container h2,
+.container button,
+.container p,
+.container mat-header-cell,
+.container mat-cell {
+  color: black;
+}
+mat-toolbar{
+  background-color:#EC637B;
+}
+
+

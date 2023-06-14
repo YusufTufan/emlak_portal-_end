@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="64270d72e8934a85836718d3cec33b54" Name="Diagram1">
+        <EntityTypeShape EntityType="emlakDB01Model.Ilan" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="emlakDB01Model.Kategori" Width="1.5" PointX="6.25" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="emlakDB01Model.Uye" Width="1.5" PointX="0.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="emlakDB01Model.Yorum" Width="1.5" PointX="6.25" PointY="1.125" IsExpanded="true" />
+        <AssociationConnector Association="emlakDB01Model.FK_Ilan_ToKategori" ManuallyRouted="false" />
+        <AssociationConnector Association="emlakDB01Model.FK_Ilan_ToUye" ManuallyRouted="false" />
+        <AssociationConnector Association="emlakDB01Model.FK_Yorum_ToIlan" ManuallyRouted="false" />
+        <AssociationConnector Association="emlakDB01Model.FK_Yorum_ToUye" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

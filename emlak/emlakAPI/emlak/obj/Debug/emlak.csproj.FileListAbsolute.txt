@@ -1,0 +1,310 @@
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\ApplicationInsights.config
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\csc.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\vbc.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\VBCSCompiler.exe
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\emlak.dll.config
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\emlak.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\emlak.pdb
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\EntityFramework.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\EntityFramework.SqlServer.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.Web.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.WindowsServer.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.ApplicationInsights.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Newtonsoft.Json.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Net.Http.Formatting.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Web.Http.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Web.Http.WebHost.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\EntityFramework.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\EntityFramework.SqlServer.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.Web.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.AI.WindowsServer.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.ApplicationInsights.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\Newtonsoft.Json.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Net.Http.Formatting.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Web.Http.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\bin\System.Web.Http.WebHost.xml
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\obj\Debug\emlak.csprojResolveAssemblyReference.cache
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\obj\Debug\emlak.dll
+c:\users\yusuf\documents\visual studio 2015\Projects\emlak\emlak\obj\Debug\emlak.pdb
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Swashbuckle.Core.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\WebActivatorEx.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Cors.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Security.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\System.Web.Cors.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\System.Web.Http.Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Cors.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Security.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlak\emlak\bin\System.Web.Http.Owin.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\ApplicationInsights.config
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\emlak.dll.config
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\emlak.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\emlak.pdb
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.Web.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Cors.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Security.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Owin.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Swashbuckle.Core.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Net.Http.Formatting.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Cors.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.Owin.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.WebHost.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\WebActivatorEx.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.Web.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Cors.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Security.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\Newtonsoft.Json.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Net.Http.Formatting.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.Owin.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\bin\System.Web.Http.WebHost.xml
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\obj\Debug\emlak.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\obj\Debug\emlak.dll
+C:\Users\yusuf\Desktop\api son hal\emlak\emlak\obj\Debug\emlak.pdb
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\ApplicationInsights.config
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\csc.exe
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\vbc.exe
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\emlak.dll.config
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\emlak.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\emlak.pdb
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\EntityFramework.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.Web.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Cors.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Security.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Newtonsoft.Json.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Swashbuckle.Core.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Net.Http.Formatting.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Cors.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.Owin.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.WebHost.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\WebActivatorEx.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\EntityFramework.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.Web.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Cors.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Security.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\Newtonsoft.Json.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Net.Http.Formatting.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.Owin.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\bin\System.Web.Http.WebHost.xml
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\obj\Debug\emlak.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\obj\Debug\emlak.dll
+C:\Users\yusuf\Documents\Visual Studio 2015\Projects\emlakAPI\emlak\obj\Debug\emlak.pdb
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\ApplicationInsights.config
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\emlak.dll.config
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\emlak.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\emlak.pdb
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.Web.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Cors.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Security.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Owin.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Swashbuckle.Core.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Net.Http.Formatting.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Cors.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.Owin.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.WebHost.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\WebActivatorEx.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.Web.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Cors.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Security.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\Newtonsoft.Json.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Net.Http.Formatting.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.Owin.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\bin\System.Web.Http.WebHost.xml
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\obj\Debug\emlak.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\obj\Debug\emlak.dll
+C:\Users\yusuf\Desktop\Emlak_portalı\emlakAPI\emlak\obj\Debug\emlak.pdb
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\ApplicationInsights.config
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\csc.exe
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\vbc.exe
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\emlak.dll.config
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\emlak.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\emlak.pdb
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\EntityFramework.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\EntityFramework.SqlServer.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.Web.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Cors.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Security.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Newtonsoft.Json.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Owin.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Swashbuckle.Core.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Net.Http.Formatting.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Cors.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.Owin.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.WebHost.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\WebActivatorEx.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\EntityFramework.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\EntityFramework.SqlServer.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.Web.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Cors.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Security.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\Newtonsoft.Json.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Net.Http.Formatting.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.Owin.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\bin\System.Web.Http.WebHost.xml
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\obj\Debug\emlak.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\obj\Debug\emlak.dll
+C:\Users\yusuf\Desktop\emlak\emlakAPI\emlak\obj\Debug\emlak.pdb

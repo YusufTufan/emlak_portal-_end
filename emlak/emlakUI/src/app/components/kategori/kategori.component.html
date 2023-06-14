@@ -1,0 +1,15 @@
+<div class="container">
+  <h1>{{kat?.KategoriAdi}} Kategorisindeki İlanlar</h1>
+  <h3 style="color: red;" *ngIf="ilanlar?.length==0">Henüz bu kategoriye ait ilan girilmemiştir!</h3>
+  <div *ngFor="let Ilan of ilanlar">
+      <h3>{{Ilan.Baslik}}</h3>
+      <p>
+          <b>Kategori: </b>{{Ilan.KategoriAdi}} &nbsp;
+          <b>Tarih: </b>{{Ilan.Tarih}} &nbsp;
+          <b>Yazan: </b> <a href="#" [routerLink]="['/uyeilan',Ilan.UyeId]">{{Ilan.UyeKadi}}</a> &nbsp;
+          <b>OKunma: </b>{{Ilan.Okunma}} &nbsp;
+          <a href="#" [routerLink]="['/ilan',Ilan.IlanId]">İlanı incele</a>
+      </p>
+      <hr>
+  </div>
+  </div>

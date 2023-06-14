@@ -1,0 +1,26 @@
+<div class="container" *ngIf="ilan">
+  <h1>{{ilan?.Baslik}}</h1>
+  <b>Kategori: </b>{{ilan.KategoriAdi}} &nbsp;
+  <b>Tarih: </b>{{ilan.Tarih | date:'dd.MM.yyyy HH:mm:ss'}} &nbsp;
+  <b>Yazan: </b>{{ilan.UyeKadi}} &nbsp;
+  <hr>
+  <div [innerHTML]="ilan.Icerik | safeHtml"></div>
+  <hr>
+  <p>Bu ilan {{ilan.Okunma}} kez okundu.</p>
+
+  <h2>Yorumlar</h2>
+  <div *ngFor="let yorum of yorumlar">
+  <b>Tarih: </b>{{yorum.Tarih | date:'dd.MM.yyyy HH:mm:ss'}} &nbsp;
+  <b>Yazan: </b>{{yorum.KullaniciAdi}} &nbsp;
+  <p>{{yorum.YorumIcerik}}</p>
+  <hr>
+</div>
+ <h3 style="color:red;" *ngIf="!apiServis.oturumKontrol()">Yorum yazabilmek için <a href="#" [routerLink]="['/login']">oturum açınız.</a></h3>
+<div *ngIf="apiServis.oturumKontrol()">
+<mat-form-field appearance="outline">
+  <mat-label>Yorumunuz</mat-label>
+  <textarea matInput placeholder="Yorumunuz" #yorumMetni></textarea>
+</mat-form-field>
+<button mat-raised-button color="primary" style="background-color: #EC637B;" (click)="YorumEkle(yorumMetni.value)">Yorum Ekle</button>
+</div>
+</div>
